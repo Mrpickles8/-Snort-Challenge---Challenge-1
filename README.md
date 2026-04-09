@@ -27,6 +27,7 @@ Each task required writing a custom Snort rule targeting a specific traffic patt
 ![P3](https://github.com/user-attachments/assets/dab2ae12-8cd9-4227-8c84-d20e96f1d1d9)
 
 *Ref 2: Snort alert log confirming successful detection against PCAP*
+
 ![P4](https://github.com/user-attachments/assets/f5dd2f15-6a24-44ba-92bf-f11aa42ecdb1)
 
 *Ref 3: Custom Snort rule detecting FTP-based attack pattern*
@@ -36,6 +37,27 @@ Each task required writing a custom Snort rule targeting a specific traffic patt
 
 *Ref 4: Snort alert log confirming successful detection against PCAP*
 ![p4_2](https://github.com/user-attachments/assets/5616becd-f550-404b-9142-9221ca4dcfb5)
+
+*Ref 5: Custom Snort rule detecting PNG-based attack pattern*
+![p1_3](https://github.com/user-attachments/assets/6dd68042-4cd7-4fde-90b5-5845a5d4ce86)
+
+![p2_3](https://github.com/user-attachments/assets/b9cc381c-383a-4075-944d-ef47caf03711)
+
+*Ref 6: Custom Snort rule detecting keyword-based attack pattern*
+
+![P1_4](https://github.com/user-attachments/assets/7fe6af03-9788-40f0-b8d4-2ce98b76b254)
+
+![p2_4](https://github.com/user-attachments/assets/75b7d6e4-f9e5-436b-8b5a-b874b7b19ab9)
+
+*Ref 7: Snort alert log confirming successful detection against PCAP*
+
+![p3_4](https://github.com/user-attachments/assets/c6a823dc-e3ac-4cc4-876e-d3bde1d41c2b)
+
+![p4_4](https://github.com/user-attachments/assets/90601c9a-befb-49d1-a424-4cafd619c1cb)
+
+
+
+
 
 
 
